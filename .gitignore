@@ -1,0 +1,15 @@
+# Personally identifiable voter data
+data/raw/
+
+# Local credentials and agent state
+.aws/
+.agents/
+.codex/
+.env
+.Renviron
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
